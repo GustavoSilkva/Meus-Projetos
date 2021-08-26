@@ -1,2 +1,2 @@
 # Meus-Projetos
-Projetos feitos por mim.
+Projetos que irei fazer ao decorrer do tempo.
